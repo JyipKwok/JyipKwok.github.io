@@ -3,8 +3,8 @@ title: Jyip Blog    # 你的博客网站标题
 SEOTitle: 郭居业的博客 | Jyip Blog
 header-img: img/home-bg.jpg     
 email: cheyeh.kwok@gmail.com
-description: "关于程序与设计、黑客与画家 | 郭居业，Software Engineer | 这里是 @Jyip郭居业 的个人博客，我们一起去创建跟好的世界。"       # 随便说点，描述一下
-keyword: "郭居业, Jyip, JyipKwok, @JyipKwok, 郭居业的博客, Jyip Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+description: "关于程序与设计 | 郭居业，Software Engineer | 这里是 @Jyip郭居业 的个人博客，我们一起去创建跟好的世界。"       # 随便说点，描述一下
+keyword: "郭居业, Jyip, JyipKwok, @JyipKwok, 郭居业的博客, Jyip Blog, 博客, 个人网站, 互联网, Java"
 url: "https://JyipKwok.me"              # your host, for absolute URL 域名
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,8 +13,8 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     努力向上的业呀    # 你的微博账号，底部链接会自动更新的。
-zhihu_username:     J.yip Kwok      # 你的知乎账号，底部链接会自动更新的。
+weibo_username:     878930604    # 你的微博账号(地址)，底部链接会自动更新的。
+zhihu_username:     j-yip-kwok      # 你的知乎账号(地址)，底部链接会自动更新的。
 github_username:    JyipKwok        # 你的github账号
 #twitter_username:   Jyippro
 #facebook_username:  郭居業
@@ -68,18 +68,18 @@ netease_comment: false
 
 # Analytics settings
 # Baidu Analytics 
-# ba_track_id: [your track id]
+# ba_track_id: 46d5958133716fbab1f634f6d9770644
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: JyipKwok.me
+ga_track_id: 'UA-145401471-1'            # Format: UA-xxxxxx-xx   你用Google账号去注册一个就会给你一个这样的id
+ga_domain: auto                         # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto。
 
 
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "To be or Not to be that is a question<br>生存还是毁灭，这是个值得考虑的问题"
-sidebar-avatar: /img/avatar-Jyip-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar: true                           # whether or not using Sidebar. 添加侧边栏
+sidebar-about-description: "To be or Not to be that is a question<br>生存还是毁灭，这是个值得考虑的问题"  #"简单的描述一下你自己"
+sidebar-avatar: /img/avatar-Jyip-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/` 你的大头贴，请使用绝对地址.
 
 
 
