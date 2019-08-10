@@ -3,7 +3,7 @@ layout:     post
 title:      "Hello 2015"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2019-08-10 12:00:00
-author:     "Hux"
+author:     "Jyip"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
@@ -12,7 +12,6 @@ tags:
 ---
 
 > “Begin Now ”
-
 
 ## 前言
 
@@ -56,7 +55,7 @@ Jyip 的 Blog 开通了,这是对于我来说值得纪念的一天。
 
 这个博客的诞生，纯粹是个人兴趣。只是为了方便自己做个记录，毕竟程序员，有个属于自己的博客是件不错的事嘛~
 
-最后感谢[Hux Blog](https://huangxuan.me/)和[方志朋的博客](https://www.fangzhipeng.com/)两位的文章给予了我指引，才有了这个博客的诞生
+最后感谢[Hux Blog](https://huangxuan.me/)和[方志朋的博客](https://www.fangzhipeng.com/)两位的文章给予了我指引，才有了这个博客的诞生(另外本篇也是基于[Hux Blog](https://huangxuan.me/)的[Hello 2015](https://huangxuan.me/2015/01/29/hello-2015/)一文进行改动的，初次写博文多多谅解)
 
 
 
