@@ -33,7 +33,7 @@ Jyip 的 Blog 开通了,这是对于我来说值得纪念的一天。
 
 接下来说说搭建这个博客的技术细节。  
 
-之前有关注的一个博客偶然间看到他的一篇博文[程序员如何搭建自己的个人博客](https://www.fangzhipeng.com/life/2018/10/14/how-to-build-blog.html)然后就跟着里面的内容开始试着自己做做。用最简单的方法去实现。以后的话可能会更新不同的版本吧。目前我的博客主题是使用了文中提到的[博客主题](https://github.com/Huxpro/huxpro.github.io)，如果有兴趣的朋友可以fork下来，但是建议先看看里面的[README.md](https://github.com/Huxpro/huxpro.github.io/blob/master/README.zh.md)。这样的话可能对你会有更好的帮助。
+之前有关注的一个博客偶然间看到他的一篇博文[程序员如何搭建自己的个人博客](https://www.fangzhipeng.com/life/2018/10/14/how-to-build-blog.html)然后就跟着里面的内容开始试着自己做做。用最简单的方法去实现。以后的话可能会更新不同的版本吧。目前我的博客主题是使用了文中提到的[博客主题](https://github.com/Huxpro/huxpro.github.io)，如果有兴趣的朋友可以fork下来，当然你要可以fork[我修改过的主题](<https://github.com/JyipKwok/JyipKwok.github.io>)因为有些信息我进行了相应的备注，但是建议先看看里面的[README.md](https://github.com/Huxpro/huxpro.github.io/blob/master/README.zh.md)。这样的话可能对你会有更好的帮助。
 
 这个博客的优点在于：
 
