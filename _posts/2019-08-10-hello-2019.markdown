@@ -1,0 +1,65 @@
+---
+layout:     post
+title:      "Hello 2015"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2019-08-10 12:00:00
+author:     "Hux"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - 生活
+    - Meta
+---
+
+> “Begin Now ”
+
+
+## 前言
+
+Jyip 的 Blog 开通了,这是对于我来说值得纪念的一天。
+
+[正文 ](#build) 
+
+
+2019年的8月，Jyip打算找个属于自己的地方可以写点东西记录下自己的东西，也当做是督促下自己学习。
+
+
+作为一个程序员，Blog 其实在大众博客程序上也可以，但是觉得大部分 Blog不能随便定制不好玩，另外就是觉得它并不是完全属于自己的。之前因为懒没有花心思去折腾，加上也不太清楚要怎么弄好。所以一直没有动手，知道最近在一些大佬们的博客里看到了实现方法后，自己就动手尝试做做了。
+
+
+<p id = "build"></p>
+---
+
+## 正文
+
+接下来说说搭建这个博客的技术细节。  
+
+之前有关注的一个博客偶然间看到他的一篇博文[程序员如何搭建自己的个人博客](https://www.fangzhipeng.com/life/2018/10/14/how-to-build-blog.html)然后就跟着里面的内容开始试着自己做做。用最简单的方法去实现。以后的话可能会更新不同的版本吧。目前我的博客主题是使用了文中提到的[博客主题](https://github.com/Huxpro/huxpro.github.io)，如果有兴趣的朋友可以fork下来，但是建议先看看里面的[README.md](https://github.com/Huxpro/huxpro.github.io/blob/master/README.zh.md)。这样的话可能对你会有更好的帮助。
+
+这个博客的优点在于：
+
+* **Markdown** 带来的优雅写作体验
+* 非常熟悉的 Git workflow ，**Git Commit 即 Blog Post**
+* 利用 GitHub Pages 的域名和免费无限空间，不用自己折腾主机
+	* 如果需要自定义域名，也只需要简单改改 DNS 加个 CNAME 就好了 
+* Jekyll 的自定制非常容易，基本就是个模版引擎
+* 另外就是个人也习惯于写**Markdown**，所以对于我本人来说也是一个十分方便的博客主题
+* 使用GitHub搭建个人博客简单、快捷、方便
+
+最大的缺点可能是Github在国外啊，网络极其不稳定，访问速度慢，让人抓狂，这时可以将自己的博客部署在阿里云的ECS上。目前我的博客还是基于搭建在GitHub上，以后再考虑将自己的博客部署在阿里云的ECS上。域名也是等迁移后再申请。
+
+---
+
+详细的搭建博客方法其实可以参考[程序员如何搭建自己的个人博客](https://www.fangzhipeng.com/life/2018/10/14/how-to-build-blog.html)和[Hello 2015](https://huangxuan.me/2015/01/29/hello-2015/)这两篇文章写得也挺详细了。相信大部分程序员的都可以通过这两篇文章做出不错的个人博客的。毕竟他们的内容对新手也挺友好的。
+
+## 最后小谈
+
+这个博客的诞生，纯粹是个人兴趣。只是为了方便自己做个记录，毕竟程序员，有个属于自己的博客是件不错的事嘛~
+
+最后感谢[Hux Blog](https://huangxuan.me/)和[方志朋的博客](https://www.fangzhipeng.com/)两位的文章给予了我指引，才有了这个博客的诞生
+
+
+
+——  本文写于 2019.08
+
+
